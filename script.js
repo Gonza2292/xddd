@@ -1,4 +1,4 @@
-const buttonNo = document.querySelector('#no')
+ruconst buttonNo = document.querySelector('#no')
 const buttonYes = document.querySelector('#yes')
 const valentineImage = document.querySelector('#valentineImage');
 const valentineImg = document.querySelector('#valentineImg');
@@ -16,7 +16,7 @@ let messages = [
   'Di que síí di que síí. ¿Una más?',
   "Trastes ... pero no me voy sin el sí ni sin ti",
   'Mira muñeca, a mi no se me este resistiendo',
-  'Jajaja No? Hazlo por Bebote!!',
+  'Jajaja No? Segura?!!',
   'Piensalo bien, sé conciente varon',
   'Altoq :v',
   'No me deje escuchando este música soloo',
